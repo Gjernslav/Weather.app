@@ -1,1 +1,1 @@
-This is a weather app created to practice my Javascrpit
+This is a weather app created to practice my Javascript.
